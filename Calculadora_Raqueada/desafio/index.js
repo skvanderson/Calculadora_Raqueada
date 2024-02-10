@@ -19,7 +19,6 @@ function calcularNivel(vitorias, derrotas) {
         nivel = "Imortal";
     }
 
-    // Retorna o resultado
     return {
         saldoVitorias: saldoVitorias,
         nivel: nivel
